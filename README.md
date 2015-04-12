@@ -42,6 +42,8 @@ Hyperdesktop - This program was modeled after it. It recently stopped working so
 2. Options to set custom hotkey
 3. Hotkey to upload desktop image to imgur without crop
 4. Make edits to image (be able to draw on top of image and upload the image + changes)
+5. Add much needed and better logging
+6. Error handling
 
 ## Additional Notes
 
