@@ -28,6 +28,14 @@ The many people that have already suffered through GTK# documentation and wrote 
 
 Hyperdesktop - This program was modeled after it. It recently stopped working so I needed something to replace it. So why not make my own?
 
+##Pics
+
+[Making Selection](Screenshots/CropSelection.png)
+[Cropped View](Screenshots/CroppedImageView.png)
+[Success Message](Screenshots/UploadSuccessful.png)
+[imgur View](Screenshots/imgurView.png)
+
+
 ## Future Features
 
 1. Save file to select folder

@@ -41,3 +41,25 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+bin/Debug/cropped.png
+bin/Debug/screenshot.png
+bin/Debug/trayicon.png
+bin/Debug/YaegerSnipper.pdb
+bin/Debug/YaegerSnipper.exe
+bin/Release/trayicon.png
+bin/Release/cropped.png
+bin/Release/screenshot.png
+obj/x86/Debug/BlackOstrich.csproj.FileListAbsolute.txt
+obj/x86/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+obj/x86/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+obj/x86/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+obj/x86/Debug/trayicon.png
+obj/x86/Debug/YaegerSnipper.exe
+obj/x86/Debug/YaegerSnipper.pdb
+obj/x86/Release/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+obj/x86/Release/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+obj/x86/Release/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+obj/x86/Release/trayicon.png
+obj/x86/Release/YaegerSnipper.exe
+obj/x86/Release/BlackOstrich.csproj.FileListAbsolute.txt
+bin/Release/YaegerSnipper.exe
