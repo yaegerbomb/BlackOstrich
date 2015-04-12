@@ -4,7 +4,7 @@ The purpose of this program is to crop a section of your desktop and save it as 
 
 ## Installation
 
-Not quite sure yet...
+Make sure you have the latest version of GTK# installed. You can run the executeable in the bin folder or compile them yourselves.
 
 ## Usage
 
