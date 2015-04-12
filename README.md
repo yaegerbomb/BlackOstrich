@@ -31,9 +31,9 @@ Hyperdesktop - This program was modeled after it. It recently stopped working so
 ##Pics
 
 ![Making Selection](Screenshots/CropSelection.png)
-![Cropped View](Screenshots/CroppedImageView.png)
+![Cropped View](Screenshots/CroppedImageView.PNG)
 ![Success Message](Screenshots/UploadSuccessful.png)
-![imgur View](Screenshots/imgurView.png)
+![imgur View](Screenshots/imgurView.PNG)
 
 
 ## Future Features
