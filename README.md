@@ -44,6 +44,7 @@ Hyperdesktop - This program was modeled after it. It recently stopped working so
 4. Make edits to image (be able to draw on top of image and upload the image + changes)
 5. Add much needed and better logging
 6. Error handling
+7. Multiple monitor support
 
 ## Additional Notes
 
