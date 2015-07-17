@@ -7,8 +7,8 @@ namespace BlackOstrich
 {
 	public class ImgurAPIClass
 	{
-		private string ClientID = "***REMOVED***";
-		private string ClientSecret = "***REMOVED***";
+		private string ClientID = "**Removed**";
+		private string ClientSecret = "**Removed**";
 		private string BaseURL = "https://api.imgur.com/3/";
 		private string Pin { get; set; }
 		private ImageClass imageClass { get; set;}
